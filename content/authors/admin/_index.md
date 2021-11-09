@@ -17,11 +17,11 @@ social:
     icon_pack: fab
     link: https://twitter.com/paradiss1
   - icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.es/citations?user=fiXLAsQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/paradiss1
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
