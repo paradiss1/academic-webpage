@@ -24,7 +24,7 @@ social:
     link: https://github.com/paradiss1
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/paradiss1
 organizations:
   - name: ETH Zürich
     url: https://erdw.ethz.ch/personen/profil.Mjg2OTMx.TGlzdC83NzMsOTI0MjA1OTI2.html
