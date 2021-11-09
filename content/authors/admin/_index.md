@@ -26,19 +26,20 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ETH Zürich
+    url: https://erdw.ethz.ch/personen/profil.Mjg2OTMx.TGlzdC83NzMsOTI0MjA1OTI2.html
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Environmental Science and Technology
+      institution: Institut de Ciència i Tecnologia Ambientals (ICTA), Universitat
+        Autònoma de Barcelona
+      year: 2020
+    - course: MSc in Oceanography and Marine Environmental Management
+      institution: Universitat de Barcelona / Universitat Politècnica de Catalunya
+      year: 2015
+    - course: BSc in Environmental Sciences
+      institution: Universitat Autònoma de Barcelona
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
