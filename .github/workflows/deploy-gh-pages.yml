@@ -31,5 +31,5 @@ jobs:
         if: ${{ github.ref == 'refs/heads/master' }}
         with:
           personal_token: ${{ secrets.TOKEN }}
-          external_repository: paradiss1/paradiss1.github.io
+          external_repository: sarah-paradis/sarah-paradis.github.io
           publish_branch: main  # default: gh-pages
