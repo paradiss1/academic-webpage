@@ -6,6 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
   - Radioisotopes
+  - Sedimentary dynamics
   - Sediment biogeochemistry
   - Spatial analysis
   - Anthropogenic impacts
