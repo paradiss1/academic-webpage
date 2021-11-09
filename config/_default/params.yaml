@@ -20,8 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: sparadis@ethz.ch
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -141,7 +140,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  provider: 2
   api_key: ''
   zoom: 15
 marketing:
