@@ -22,7 +22,7 @@ social:
     link: https://scholar.google.es/citations?user=fiXLAsQAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/paradiss1
+    link: https://github.com/sarah-paradis
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/paradiss1
