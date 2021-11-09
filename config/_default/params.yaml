@@ -22,12 +22,12 @@ twitter: ''
 
 email: sparadis@ethz.ch
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Sonneggstrasse 5
+  city: Zürich
+  region: 
+  postcode: '8006'
+  country: Switzerland
+  country_code: CH
 coordinates:
   latitude: '47.3784287'
   longitude: '8.5474222'
@@ -118,7 +118,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '2'
+  provider: 3
   api_key: ''
   zoom: 15
 marketing:
