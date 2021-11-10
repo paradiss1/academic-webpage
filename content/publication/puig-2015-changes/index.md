@@ -9,7 +9,7 @@ authors:
 - Pere Puig
 - Pere Masqué
 - Jacobo Martı́n
-- *Sarah Paradis*
+- Sarah Paradis
 - Xènia Juan Díaz
 - Miguel Toro
 - Albert Palanques
