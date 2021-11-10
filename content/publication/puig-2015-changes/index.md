@@ -9,8 +9,8 @@ authors:
 - Pere Puig
 - Pere Masqué
 - Jacobo Martı́n
-- Sarah Paradis
-- Xènia Juan D\áz
+- *Sarah Paradis*
+- Xènia Juan Díaz
 - Miguel Toro
 - Albert Palanques
 tags: []
