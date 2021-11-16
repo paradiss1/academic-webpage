@@ -5,14 +5,14 @@ title: Persistence of Biogeochemical Alterations of Deep-Sea Sediments by Bottom
 subtitle: ''
 summary: ''
 authors:
-- S Paradis
-- M Goñi
-- P Masqué
-- R Durán
-- M Arjona-Camas
-- A Palanques
-- P Puig
-tags: []
+- Sarah Paradis
+- Miguel Goñi
+- Pere Masqué
+- Ruth Durán
+- Marta Arjona-Camas
+- Albert Palanques
+- Pere Puig
+tags: [bottom trawling, organic carbon, erosion, remineralization]
 categories: []
 date: '2021-01-01'
 lastmod: 2021-11-10T22:06:09+01:00
