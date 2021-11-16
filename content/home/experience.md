@@ -10,7 +10,7 @@ experience:
     company_logo: org-x
     location: Zürich
     date_start: 2021-03-01
-    date_end: -
+    date_end: ''
     description: |-2
           
         * Maintaining and expanding the Modern Ocean Sediment Archive and Inventory of Carbon (MOSAIC) mosaic.ethz.ch        
