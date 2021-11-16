@@ -3,14 +3,13 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
-
   - title: Post-doctoral Researcher
     company: ETH Zürich
     company_url: "https://biogeoscience.ethz.ch/"
     company_logo: org-x
     location: Zürich
     date_start: 2021-03-01
-    date_end: ''
+    date_end: 
     description: |-2
           
         * Maintaining and expanding the Modern Ocean Sediment Archive and Inventory of Carbon ([MOSAIC](mosaic.ethz.ch))        
@@ -26,6 +25,8 @@ experience:
         
         * Physical Radioactivity (2016-2020)
         * Oceanography (2017)
+        * Supervision of Bachelor Theses (2019-2021)
+
   - title: Predoctoral Researcher (PhD)
     company: [Institut de Ciència i Tecnologia Ambientals (Universitat Autònoma de Barcelona)](https://www.uab.cat/Icta) and [Institut de Ciències del Mar (ICM-CSIC)](https://www.icm.csic.es/en/research-group/ocean-and-littoral-sedimentary-processes)
     company_url: ""
