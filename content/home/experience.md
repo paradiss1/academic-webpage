@@ -26,7 +26,6 @@ experience:
         
         * Physical Radioactivity (2016-2020)
         * Oceanography (2017)
-        * Supervision of Bachelor Theses (2019-2021)
   - title: Predoctoral Researcher (PhD)
     company: [Institut de Ciència i Tecnologia Ambientals (Universitat Autònoma de Barcelona)](https://www.uab.cat/Icta) and [Institut de Ciències del Mar (ICM-CSIC)](https://www.icm.csic.es/en/research-group/ocean-and-littoral-sedimentary-processes)
     company_url: ""
