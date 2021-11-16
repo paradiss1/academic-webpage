@@ -3,6 +3,17 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
+
+  - title: Post-doctoral Researcher
+    company: ETH Zürich
+    company_url: "https://biogeoscience.ethz.ch/"
+    company_logo: org-x
+    location: Zürich
+    date_start: 2021-03-01
+    date_end: -
+    description: |-2
+          
+        * Maintaining and expanding the Modern Ocean Sediment Archive and Inventory of Carbon (MOSAIC) mosaic.ethz.ch        
   - title: Assistant Professor
     company: Universitat Autònoma de Barcelona
     company_url: ""
@@ -16,8 +27,8 @@ experience:
         * Physical Radioactivity (2016-2020)
         * Oceanography (2017)
         * Supervision of Bachelor Theses (2019-2021)
-  - title: Predoctoral researcher (PhD)
-    company: Institut de Ciència i Tecnologia Ambientals (Universitat Autònoma de Barcelona) and Institut de Ciències del Mar (ICM-CSIC)
+  - title: Predoctoral Researcher (PhD)
+    company: [Institut de Ciència i Tecnologia Ambientals (Universitat Autònoma de Barcelona)] (https://www.uab.cat/Icta) and [Institut de Ciències del Mar (ICM-CSIC)] (https://www.icm.csic.es/en/research-group/ocean-and-littoral-sedimentary-processes)
     company_url: ""
     company_logo: org-gc
     location: Barcelona
@@ -25,9 +36,9 @@ experience:
     date_end: 2020-09-01
     description: |-2
         
-        * Thesis: <https://digital.csic.es/bitstream/10261/234117/1/Paradis_Thesis_2020.pdf>
+        * Thesis: [Physical and Biogeochemical Impacts of Deep Bottom Trawling in Sedimentary Environments of the Western Mediterranean] (https://digital.csic.es/bitstream/10261/234117/1/Paradis_Thesis_2020.pdf)
         * Supervisors: Dr. Pere Puig (ICM-CSIC), Dr. Pere Masqué
-        * Cum Laude
+        * Successfully defended with Excellent and ``Cum Laude`` mention
 widget_id: experience
 headless: true
 weight: 40
