@@ -28,7 +28,7 @@ experience:
         * Oceanography (2017)
         * Supervision of Bachelor Theses (2019-2021)
   - title: Predoctoral Researcher (PhD)
-    company: [Institut de Ciència i Tecnologia Ambientals (Universitat Autònoma de Barcelona)] (https://www.uab.cat/Icta) and [Institut de Ciències del Mar (ICM-CSIC)] (https://www.icm.csic.es/en/research-group/ocean-and-littoral-sedimentary-processes)
+    company: [Institut de Ciència i Tecnologia Ambientals (Universitat Autònoma de Barcelona)](https://www.uab.cat/Icta) and [Institut de Ciències del Mar (ICM-CSIC)(https://www.icm.csic.es/en/research-group/ocean-and-littoral-sedimentary-processes)
     company_url: ""
     company_logo: org-gc
     location: Barcelona
@@ -36,7 +36,7 @@ experience:
     date_end: 2020-09-01
     description: |-2
         
-        * Thesis: [Physical and Biogeochemical Impacts of Deep Bottom Trawling in Sedimentary Environments of the Western Mediterranean] (https://digital.csic.es/bitstream/10261/234117/1/Paradis_Thesis_2020.pdf)
+        * Thesis: [Physical and Biogeochemical Impacts of Deep Bottom Trawling in Sedimentary Environments of the Western Mediterranean](https://digital.csic.es/bitstream/10261/234117/1/Paradis_Thesis_2020.pdf)
         * Supervisors: Dr. Pere Puig (ICM-CSIC), Dr. Pere Masqué
         * Successfully defended with Excellent and ``Cum Laude`` mention
 widget_id: experience
