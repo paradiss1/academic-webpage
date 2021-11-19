@@ -12,7 +12,7 @@ experience:
     date_end: 
     description: |-2
           
-        * Maintaining and expanding the Modern Ocean Sediment Archive and Inventory of Carbon ([MOSAIC](mosaic.ethz.ch))        
+        * Maintaining and expanding the Modern Ocean Sediment Archive and Inventory of Carbon ([MOSAIC](http://mosaic.ethz.ch/))        
   - title: Assistant Professor
     company: Universitat Autònoma de Barcelona
     company_url: ""
