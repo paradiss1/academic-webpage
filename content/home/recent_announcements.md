@@ -11,4 +11,4 @@ design:
   columns: '2'
 ---
 
-My announcements will be listed here :)
+{{< readfromfile "/content/announcements_list.txt" 5 >}}
