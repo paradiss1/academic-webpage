@@ -11,4 +11,4 @@ design:
   columns: '2'
 ---
 
-{{< readfromfile "/content/announcements_list.dat" 5 >}} 
+My announcements will be listed here :)
