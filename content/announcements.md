@@ -1,18 +1,15 @@
-+++
-date = 2017-12-01
-lastmod = 2017-12-01
-draft = false
-tags = []
-title = "News"
-math = true
-summary = """
-List of news.
-"""
+---
+title: Announcements
+date: "2018-06-28T00:00:00+01:00"
+draft: False
+share: false
+commentable: false
+editable: false
 
-[header]
-image = ""
-caption = ""
-
-+++
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
 
 {{< readfromfile "/content/announcements_list.txt" 1000 >}}
