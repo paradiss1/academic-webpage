@@ -7,18 +7,18 @@ main:
   - name: About me
     url: '#about'
     weight: 10
+  - name: Announcements
+    url: '#recent_announcements'
+    weight: 20
   - name: Experience
     url: '#experience'
-    weight: 20
+    weight: 30
   - name: Publications
     url: '#publications'
-    weight: 30
-#  - name: Projects
-#    url: '#projects'
-#    weight: 30
-#  - name: Talks
-#    url: '#talks'
-#    weight: 40
+    weight: 40
+  - name: Media and outreach
+    url: '#recent_media_outreach'
+    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
