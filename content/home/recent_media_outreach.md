@@ -11,4 +11,4 @@ design:
   columns: '2'
 ---
 
-{{< readfromfile "/content/media_outreach_list.txt" 1000 >}}
+{{< readfromfile "/content/media_outreach_list.txt" 5 >}}
