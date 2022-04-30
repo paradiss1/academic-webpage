@@ -46,5 +46,8 @@ superuser: true
 highlight_name: true
 ---
 
+I obtained my Bachelor in Environmental Sciences at the Universitat Autònoma de Barcelona (UAB), Spain, in 2014 and became more specialized in marine sciences by completing the Master in Oceanography at the Universitat de Barcelona and Universitat Politècnica de Catalunya in 2015.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+As an environmental scientist, I am interested in understanding processes in marine environments and how anthropogenic activities alter them. With this in mind, I undertook a PhD in Environmental Sciences and Technology at my alma mater, UAB, studying the physical and biogeochemical impacts of bottom trawling on the seafloor of the Western Mediterranean margin.
+
+I am now working as a post-doctoral researcher on a global database of organic carbon in marine sediments, Modern Ocean Sediment Archive and Inventory of Carbon (MOSAIC), to understand the factors that affect the distribution of organic carbon and its composition, and the influence of anthropogenic activities.
