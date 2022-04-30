@@ -5,10 +5,10 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Radioisotopes
+  - Radioisotopes / Radiochronology
   - Sedimentary dynamics
   - Sediment biogeochemistry
-  - Spatial analysis
+  - Spatial analysis / Geostatistics
   - Anthropogenic impacts
 social:
   - icon: envelope
