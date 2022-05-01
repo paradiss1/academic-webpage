@@ -6,7 +6,7 @@ experience:
   - title: Post-doctoral Researcher
     company: ETH Zürich
     company_url: "https://biogeoscience.ethz.ch/"
-    company_logo: 
+    company_logo: logo-eth
     location: Zürich
     date_start: 2021-03-01
     date_end: 
@@ -30,7 +30,7 @@ experience:
   - title: Predoctoral Researcher (PhD)
     company: Institut de Ciència i Tecnologia Ambientals (Universitat Autònoma de Barcelona) and Institut de Ciències del Mar (ICM-CSIC)
     company_url: ""
-    company_logo: 
+    company_logo: logo-uab
     location: Barcelona
     date_start: 2015-10-01
     date_end: 2020-09-01
