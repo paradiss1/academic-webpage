@@ -16,7 +16,7 @@ experience:
   - title: Assistant Professor
     company: Universitat Autònoma de Barcelona
     company_url: ""
-    company_logo: 
+    company_logo: logo-uab
     location: Barcelona
     date_start: 2016-09-01
     date_end: 2021-02-01
