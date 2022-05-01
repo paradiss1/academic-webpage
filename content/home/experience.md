@@ -30,7 +30,7 @@ experience:
   - title: Predoctoral Researcher (PhD)
     company: Institut de Ciència i Tecnologia Ambientals (Universitat Autònoma de Barcelona) and Institut de Ciències del Mar (ICM-CSIC)
     company_url: ""
-    company_logo: logo-uab
+    company_logo: logo-uab-icm
     location: Barcelona
     date_start: 2015-10-01
     date_end: 2020-09-01
