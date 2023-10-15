@@ -6,18 +6,18 @@ title: 'The Modern Ocean Sediment Archive and Inventory of Carbon (MOSAIC): vers
 subtitle: ''
 summary: ''
 authors:
-- S. Paradis
-- K. Nakajima
-- T. S. Van der Voort
-- H. Gies
-- A. Wildberger
-- T. M. Blattmann
-- L. Bröder
-- T. I. Eglinton
+- Sarah Paradis
+- Kai Nakajima
+- Tessa S. Van der Voort
+- Hannah Gies
+- Aline Wildberger
+- Thomas M. Blattmann
+- Lisa Bröder
+- Timothy I. Eglinton
 tags: []
 categories: []
 date: '2023-01-01'
-lastmod: 2023-10-15T17:53:16+02:00
+lastmod: 2023-10-15T18:13:10+02:00
 featured: false
 draft: false
 
@@ -35,7 +35,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-15T15:53:15.690367Z'
+publishDate: '2023-10-15T16:13:10.325580Z'
 publication_types:
 - '2'
 abstract: 'Marine sediments play a crucial role in the global carbon cycle by acting
