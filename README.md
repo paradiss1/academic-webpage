@@ -45,3 +45,8 @@ We're an open source movement that depends on your support to stay online and th
 <!--END_SECTION:news-->
 
 [![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+
+## Update publications
+- Update publications.bib. Make sure to add the abstract.
+- Open a terminal on this folder and run `academic import --bibtex publications.bib`.
+- Commit and push the result.
