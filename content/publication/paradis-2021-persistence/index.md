@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-15T16:23:00.746551Z'
+publishDate: '2023-10-15T16:34:09.867698Z'
 publication_types:
 - '2'
 abstract: Bottom trawling grounds have been expanding to deeper areas of the oceans

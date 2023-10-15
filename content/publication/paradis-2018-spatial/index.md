@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-15T16:22:59.929252Z'
+publishDate: '2023-10-15T16:34:09.081073Z'
 publication_types:
 - '2'
 abstract: A detailed study of 15 sediment cores from Blanes Canyon and its immediate

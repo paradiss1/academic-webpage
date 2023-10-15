@@ -10,13 +10,13 @@ authors:
 - Pere Masqué
 - Jacobo Martín
 - Sarah Paradis
-- Xènia Juan D\áz
+- Xènia Juan Díaz
 - Miguel Toro
 - Albert Palanques
 tags: []
 categories: []
 date: '2015-01-01'
-lastmod: 2021-11-10T22:06:09+01:00
+lastmod: 2023-10-15T18:41:43+02:00
 featured: false
 draft: false
 
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-15T16:22:57.081699Z'
+publishDate: '2023-10-15T16:41:41.996242Z'
 publication_types:
 - '2'
 abstract: The disturbance of the marine sedimentary environments by commercial bottom

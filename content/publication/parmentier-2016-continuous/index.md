@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-15T16:22:58.743473Z'
+publishDate: '2023-10-15T16:34:07.915896Z'
 publication_types:
 - '2'
 abstract: This work describes for the first time a continuous process for selective

@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-15T16:23:03.807616Z'
+publishDate: '2023-10-15T16:34:12.772541Z'
 publication_types:
 - '2'
 abstract: The sequestration of organic carbon in seafloor sediments plays a key role

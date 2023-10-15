@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-15T16:23:02.316821Z'
+publishDate: '2023-10-15T16:34:11.613675Z'
 publication_types:
 - '2'
 abstract: Continental margins are transitional areas between the land and the deep

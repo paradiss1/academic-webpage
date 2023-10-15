@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-15T16:23:00.325146Z'
+publishDate: '2023-10-15T16:34:09.473456Z'
 publication_types:
 - '2'
 abstract: Bottom trawling in the deep sea is one of the main drivers of sediment resuspension,

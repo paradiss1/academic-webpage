@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-10-15T16:22:59.545249Z'
+publishDate: '2023-10-15T16:34:08.711081Z'
 publication_types:
 - '2'
 abstract: Commercial bottom trawling causes some of the largest impacts on the sea
