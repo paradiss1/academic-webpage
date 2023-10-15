@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-10T21:06:09.443698Z'
+publishDate: '2023-10-15T16:23:01.131883Z'
 publication_types:
 - '2'
 abstract: Bottom trawling in submarine canyons can affect their natural sedimentation
@@ -52,4 +52,7 @@ abstract: Bottom trawling in submarine canyons can affect their natural sediment
   should be addressed by management strategies.
 publication: '*Marine pollution bulletin*'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0025326X2100895X
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0025326X2100895X
 ---

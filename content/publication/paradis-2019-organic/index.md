@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-10T21:06:08.937822Z'
+publishDate: '2023-10-15T16:23:00.325146Z'
 publication_types:
 - '2'
 abstract: Bottom trawling in the deep sea is one of the main drivers of sediment resuspension,
@@ -67,4 +67,7 @@ abstract: Bottom trawling in the deep sea is one of the main drivers of sediment
   science-based management strategies to mitigate the impacts of bottom trawling.
 publication: '*Biogeosciences*'
 url_pdf: https://bg.copernicus.org/articles/16/4307/2019/bg-16-4307-2019.html
+links:
+- name: URL
+  url: https://bg.copernicus.org/articles/16/4307/2019/bg-16-4307-2019.html
 ---

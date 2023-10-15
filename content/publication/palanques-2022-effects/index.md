@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-01T15:25:36.664203Z'
+publishDate: '2023-10-15T16:23:01.925397Z'
 publication_types:
 - '2'
 abstract: Submarine canyons are preferential pathways for transport of particulate
@@ -59,4 +59,7 @@ abstract: Submarine canyons are preferential pathways for transport of particula
   trace metal contamination levels since the expansion of the bottom trawling fleets.
 publication: '*Science of The Total Environment*'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0048969721077366
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0048969721077366
 ---

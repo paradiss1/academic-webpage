@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-10T21:06:08.786939Z'
+publishDate: '2023-10-15T16:22:59.929252Z'
 publication_types:
 - '2'
 abstract: A detailed study of 15 sediment cores from Blanes Canyon and its immediate
@@ -63,4 +63,7 @@ abstract: A detailed study of 15 sediment cores from Blanes Canyon and its immed
   as modern depocenters for trawling-induced sedimentation.
 publication: '*Progress in Oceanography*'
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0079661117303373
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0079661117303373
 ---

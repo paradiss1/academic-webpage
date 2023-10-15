@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-10T21:06:08.339487Z'
+publishDate: '2023-10-15T16:22:58.743473Z'
 publication_types:
 - '2'
 abstract: This work describes for the first time a continuous process for selective
@@ -54,4 +54,7 @@ abstract: This work describes for the first time a continuous process for select
   IL metal extraction systems must be regarded as promising alternatives.
 publication: '*Chemical Engineering Research and Design*'
 url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0263876216300028
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/abs/pii/S0263876216300028
 ---

@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-10T21:06:08.484063Z'
+publishDate: '2023-10-15T16:22:59.127749Z'
 publication_types:
 - '2'
 abstract: Many studies highlight that fish trawling activities cause seafloor erosion,
@@ -55,4 +55,7 @@ abstract: Many studies highlight that fish trawling activities cause seafloor er
   benthic communities.
 publication: '*Scientific reports*'
 url_pdf: https://www.nature.com/articles/srep43332?origin=ppub
+links:
+- name: URL
+  url: https://www.nature.com/articles/srep43332?origin=ppub
 ---

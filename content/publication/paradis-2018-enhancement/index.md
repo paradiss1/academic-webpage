@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-10T21:06:08.635852Z'
+publishDate: '2023-10-15T16:22:59.545249Z'
 publication_types:
 - '2'
 abstract: Commercial bottom trawling causes some of the largest impacts on the sea
@@ -54,4 +54,7 @@ abstract: Commercial bottom trawling causes some of the largest impacts on the s
   modernization of trawling fleets at the beginning of the XXIst century.
 publication: '*Deep Sea Research Part I: Oceanographic Research Papers*'
 url_pdf: https://www.sciencedirect.com/science/article/pii/S0967063717302807
+links:
+- name: URL
+  url: https://www.sciencedirect.com/science/article/pii/S0967063717302807
 ---

@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-05-01T15:25:36.819953Z'
+publishDate: '2023-10-15T16:23:02.316821Z'
 publication_types:
 - '2'
 abstract: Continental margins are transitional areas between the land and the deep
@@ -64,4 +64,7 @@ abstract: Continental margins are transitional areas between the land and the de
   layers.
 publication: '*Frontiers in Marine Science*'
 url_pdf: https://www.frontiersin.org/articles/10.3389/fmars.2021.770280/full
+links:
+- name: URL
+  url: https://www.frontiersin.org/articles/10.3389/fmars.2021.770280/full
 ---

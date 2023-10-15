@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-10T21:06:09.136096Z'
+publishDate: '2023-10-15T16:23:00.746551Z'
 publication_types:
 - '2'
 abstract: Bottom trawling grounds have been expanding to deeper areas of the oceans
@@ -51,4 +51,7 @@ abstract: Bottom trawling grounds have been expanding to deeper areas of the oce
   margins at a global scale, hampering their carbon burial capacity.
 publication: '*Geophysical Research Letters*'
 url_pdf: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL091279
+links:
+- name: URL
+  url: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020GL091279
 ---

@@ -15,7 +15,7 @@ authors:
 - Mikhail Emelianov
 tags: []
 categories: []
-date: '2021-11-01'
+date: '2021-01-01'
 lastmod: 2021-11-16T23:08:53+01:00
 featured: false
 draft: false
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-16T22:08:48.204111Z'
+publishDate: '2023-10-15T16:23:01.506016Z'
 publication_types:
 - '2'
 abstract: Increases of water turbidity and suspended sediment transport in submarine
@@ -62,4 +62,7 @@ abstract: Increases of water turbidity and suspended sediment transport in subma
   and suspended sediment transport can be expected.
 publication: '*Marine Geophysical Research*'
 url_pdf: https://link.springer.com/article/10.1007%2Fs11001-021-09457-7
+links:
+- name: URL
+  url: https://link.springer.com/article/10.1007%2Fs11001-021-09457-7
 ---
