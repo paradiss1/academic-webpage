@@ -3,13 +3,23 @@ widget: experience
 active: true
 date_format: Jan 2006
 experience:
+  - title: Senior Research Assistant
+    company: ETH Zürich
+    company_url: "https://biogeoscience.ethz.ch/"
+    company_logo: logo-eth
+    location: Zürich
+    date_start: 2023-09-01
+    date_end: 
+    description: |-2
+          
+        * Maintaining and expanding the Modern Ocean Sediment Archive and Inventory of Carbon ([MOSAIC](http://mosaic.ethz.ch/))        
   - title: Post-doctoral Researcher
     company: ETH Zürich
     company_url: "https://biogeoscience.ethz.ch/"
     company_logo: logo-eth
     location: Zürich
     date_start: 2021-03-01
-    date_end: 
+    date_end: 2023-09-01
     description: |-2
           
         * Maintaining and expanding the Modern Ocean Sediment Archive and Inventory of Carbon ([MOSAIC](http://mosaic.ethz.ch/))        
